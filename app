@@ -1,9 +1,0 @@
-// app/page.jsx
-export default function Home() {
-  return (
-    <main>
-      <h1>Welcome to the Youth Digital Platform</h1>
-      <p>This is a placeholder homepage. More coming soon!</p>
-    </main>
-  );
-}
